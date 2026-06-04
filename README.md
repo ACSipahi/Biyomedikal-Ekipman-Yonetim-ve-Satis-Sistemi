@@ -6,7 +6,7 @@ ve stored procedure nedir ve nasıl kullanılır[^3].
 
 Akış Şeması:
 
-Veri Tabanı Diyagramı:<img width="1055" height="802" alt="ER-2" src="https://github.com/user-attachments/assets/c6f6ea9f-ccae-449c-9201-a8bb5c7fa6e3" />
+Veri Tabanı Diyagramı:<img width="1068" height="803" alt="ER-3" src="https://github.com/user-attachments/assets/0d03ee91-565e-4ee6-b345-3fb91d05315c" />
 <img width="992" height="821" alt="ER-1" src="https://github.com/user-attachments/assets/be0d59f6-f7de-4744-b1a9-e4b2f431f2e6" />
 
 Genel Yapı:
