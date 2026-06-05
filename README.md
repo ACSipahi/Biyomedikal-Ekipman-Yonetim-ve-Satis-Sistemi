@@ -5,6 +5,8 @@ Yapılan araştırmalar: Normalizasyon kuralları ne olduğunu , buna uygun bir 
 ve stored procedure nedir ve nasıl kullanılır[^3].
 
 Akış Şeması:<img width="1081" height="707" alt="Akış-diyagramı-1" src="https://github.com/user-attachments/assets/b3136192-a9ce-44e8-954c-e1d37259a9a4" />
+<img width="429" height="796" alt="Akış-diyagramı-3" src="https://github.com/user-attachments/assets/a76a8ac6-8d2f-4d34-9d7e-a621510d4374" />
+<img width="459" height="785" alt="Akış-diyagramı-4" src="https://github.com/user-attachments/assets/9953a568-ded9-436e-99d0-9723b274b007" /><img width="587" height="724" alt="Akış-diyagramı-5" src="https://github.com/user-attachments/assets/43441302-34d4-4b80-addb-799eda7a5630" /><img width="195" height="842" alt="Akış-diyagramı-2" src="https://github.com/user-attachments/assets/88bb88eb-babe-4666-b500-2d651562eb98" />
 
 
 Yazılım Mimarisi:Veri tabanı (MSSQL) --> JDBC --> Java --> Sprint Boot --> HTML
