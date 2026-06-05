@@ -4,7 +4,8 @@ Problem Tanımı:Bir biyomedikal şirketi için veri tabanı , veri tabanını e
 Yapılan araştırmalar: Normalizasyon kuralları ne olduğunu , buna uygun bir veri tabanı nasıl oluşturulur[^1]. Bir veri tabını ile java nasıl bağlanır ve kodlarken kullanılan syntax[^2]. View , trigger 
 ve stored procedure nedir ve nasıl kullanılır[^3].
 
-Akış Şeması:
+Akış Şeması:<img width="1081" height="707" alt="Akış-diyagramı-1" src="https://github.com/user-attachments/assets/b3136192-a9ce-44e8-954c-e1d37259a9a4" />
+
 
 Yazılım Mimarisi:Veri tabanı (MSSQL) --> JDBC --> Java --> Sprint Boot --> HTML
 
